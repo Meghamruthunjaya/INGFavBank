@@ -95,7 +95,7 @@
     <snapshotRepository>
         <id>artifactory</id>
         <name>snapshot</name>
-        <url>http://13.127.244.146:8081/artifactory/libs-snapshot-local</url>
+        <url>http://52.66.249.28:8081/artifactory/libs-snapshot-local</url>
     	</snapshotRepository>
 	</distributionManagement>
 	
